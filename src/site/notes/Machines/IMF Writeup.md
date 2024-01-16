@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/machines/imf-writeup/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/machines/imf-writeup/","noteIcon":""}
 ---
 
 
